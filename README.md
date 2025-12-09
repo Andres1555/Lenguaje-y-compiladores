@@ -8,8 +8,6 @@ Programas nesecarios:
 
 -Rust
 
-Dependencias:
-
 Como usarlo 
 
 En la carpeta raiz busque los .exe y ejecutelos ahi vera el flujo de cada uno en su respectivo lenguaje 
