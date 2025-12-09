@@ -3,7 +3,9 @@
 Programas nesecarios:
 
 -Haskell
+
 -C++
+
 -Rust
 
 Dependencias:
